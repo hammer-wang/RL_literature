@@ -19,6 +19,7 @@
 * MODEL-ENSEMBLE TRUST-REGION POLICY OPTIMIZATION
 * Benchmarking Model-Based Reinforcement Learning
 * Self-Supervised Exploration via Disagreement
+* Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
 
 ## Exploration
 * If MaxEnt RL is the Answer, What is the Question?
@@ -28,5 +29,4 @@
 ## Offline RL
 
 ## Applications
-* Adaptive Droplet Routing in Digital Microfluidic Biochips Using
-Deep Reinforcement Learning
+* Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning
