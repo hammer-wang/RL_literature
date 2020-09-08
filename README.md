@@ -32,3 +32,4 @@
 
 ## Applications
 * Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning
+* Angermueller, Christof, et al. "Model-based reinforcement learning for biological sequence design." International Conference on Learning Representations. 2019.
