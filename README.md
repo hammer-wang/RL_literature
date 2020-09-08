@@ -3,6 +3,12 @@
 ## Survey
 * Yu, Yang. "Towards Sample Efficient Reinforcement Learning." IJCAI. 2018.
 
+## Popular Methods
+* TRPO
+* PPO
+* DDPG
+* SVG
+
 ## Model-based RL
 * Clavera, Ignasi, et al. "Model-based reinforcement learning via meta-policy optimization." arXiv preprint arXiv:1809.05214 (2018).
 * Meta-Model-BasedMeta-Policy Optimization. 
@@ -12,6 +18,7 @@
 * Recurrent World Models Facilitate Policy Evolution
 * MODEL-ENSEMBLE TRUST-REGION POLICY OPTIMIZATION
 * Benchmarking Model-Based Reinforcement Learning
+* Self-Supervised Exploration via Disagreement
 
 ## Exploration
 * If MaxEnt RL is the Answer, What is the Question?
