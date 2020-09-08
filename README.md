@@ -1,9 +1,9 @@
 # RL Literature
 
 ## Survey
-* Yu, Yang. "Towards Sample Efficient Reinforcement Learning." IJCAI. 2018.
+* Yu, Yang. "Towards Sample Efficient Reinforcement Learning." IJCAI. 2018. [[pdf](https://www.ijcai.org/Proceedings/2018/0820.pdf)]
 
-## Popular Methods
+## Popular Backbone Methods
 * TRPO
 * PPO
 * DDPG
