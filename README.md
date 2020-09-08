@@ -26,7 +26,9 @@
 
 ## Meta RL
 
-## Offline RL
+## Offline Policy Optimization
+
+## Offline Policy Evaluation
 
 ## Applications
 * Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning
