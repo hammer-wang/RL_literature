@@ -20,6 +20,7 @@
 * Benchmarking Model-Based Reinforcement Learning
 * Self-Supervised Exploration via Disagreement
 * Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
+* Model Inversion Networks for Model-Based Optimization
 
 ## Exploration
 * If MaxEnt RL is the Answer, What is the Question?
@@ -31,5 +32,6 @@
 ## Offline Policy Evaluation
 
 ## Applications
+* Eastman, Peter, et al. "Solving the RNA design problem with reinforcement learning." PLoS computational biology 14.6 (2018): e1006176.
 * Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning
 * Angermueller, Christof, et al. "Model-based reinforcement learning for biological sequence design." International Conference on Learning Representations. 2019. [[pdf](https://openreview.net/pdf?id=HklxbgBKvr)]
