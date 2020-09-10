@@ -9,7 +9,7 @@
 * DDPG
 * SVG
 
-## Model-based RL
+## Model-based RL (inlcuding model-based optimization)
 * Clavera, Ignasi, et al. "Model-based reinforcement learning via meta-policy optimization." arXiv preprint arXiv:1809.05214 (2018).
 * Meta-Model-BasedMeta-Policy Optimization. 
 * MODEL BASED REINFORCEMENT LEARNING FOR ATARI
@@ -20,12 +20,15 @@
 * Benchmarking Model-Based Reinforcement Learning
 * Self-Supervised Exploration via Disagreement
 * Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
-* Model Inversion Networks for Model-Based Optimization
+* Scalable Bayesian Optimization Using Deep Neural Networks
 
 ## Exploration
 * If MaxEnt RL is the Answer, What is the Question?
+* Provably Efficient Q-Learning with Low Switching Cost
 
 ## Meta RL
+
+## Causal RL
 
 ## Offline Policy Optimization
 
@@ -35,3 +38,10 @@
 * Eastman, Peter, et al. "Solving the RNA design problem with reinforcement learning." PLoS computational biology 14.6 (2018): e1006176.
 * Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning
 * Angermueller, Christof, et al. "Model-based reinforcement learning for biological sequence design." International Conference on Learning Representations. 2019. [[pdf](https://openreview.net/pdf?id=HklxbgBKvr)]
+
+## Others (these are not RL papers but share some conceptual similarity)
+### Model-based Optimization
+* Model Inversion Networks for Model-Based Optimization
+* Incomplete Conditional Density Estimation for Fast Materials Discovery
+
+### 
