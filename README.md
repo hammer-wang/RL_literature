@@ -21,6 +21,7 @@
 * Self-Supervised Exploration via Disagreement
 * Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
 * Scalable Bayesian Optimization Using Deep Neural Networks
+* Kurtland Chua, Roberto Calandra, Rowan McAllister, and Sergey Levine. Deep reinforcement learning in a handful of trials using probabilistic dynamics models. arXiv preprint. arXiv:1805.12114, 2018.
 
 ## Exploration
 * If MaxEnt RL is the Answer, What is the Question?
