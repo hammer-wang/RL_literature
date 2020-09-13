@@ -3,7 +3,7 @@
 ## Survey
 * Yu, Yang. "Towards Sample Efficient Reinforcement Learning." IJCAI. 2018. [[pdf](https://www.ijcai.org/Proceedings/2018/0820.pdf)]
 
-## Popular Methods
+## Popular Base Learner
 * TRPO
 * PPO
 * DDPG
@@ -22,7 +22,7 @@
 * Kurtland Chua, Roberto Calandra, Rowan McAllister, and Sergey Levine. Deep reinforcement learning in a handful of trials using probabilistic dynamics models. arXiv preprint. arXiv:1805.12114, 2018.
 * Learning latent dynamics for planning from pixels
 * Meta-Model-BasedMeta-Policy Optimization. 
-* MODEL BASED REINFORCEMENT LEARNING FOR ATARI
+* Model Based Reinforcement Learning for Atari
 * Model-based active exploration
 * Model-based Adversarial Meta-Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.08875)]
 * Model-based Reinforcement Learning for Semi-Markov Decision Processes with Neural ODEs, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.16210)]
