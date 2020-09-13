@@ -49,6 +49,7 @@
 
 ## Meta RL
 * Learning to adapt in dynamic, real-world environments through meta-reinforcement learning
+* RL2: Fast Reinforcement Learning via Slow Reinforcement Learning, ICLR, 2017. [[pdf](https://arxiv.org/abs/1611.02779)]
 
 ## Causal RL
 
