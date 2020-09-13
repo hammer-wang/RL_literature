@@ -22,12 +22,25 @@
 * Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
 * Scalable Bayesian Optimization Using Deep Neural Networks
 * Kurtland Chua, Roberto Calandra, Rowan McAllister, and Sergey Levine. Deep reinforcement learning in a handful of trials using probabilistic dynamics models. arXiv preprint. arXiv:1805.12114, 2018.
+* Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning
+* Learning latent dynamics for planning from pixels
+* Deep reinforcement learning in a handful of trials using probabilistic dynamics models
+* End-to-end differentiable physics for learning and control
+* When to trust your model: Model-based policy optimization
+* Model-based active exploration
+* Search on the replay buffer: Bridging planning and reinforcement learning
+* Exploring model-based planning with policy networks
+* Calibrated model-based deep reinforcement learning
+* Sample complexity of reinforcement learning using linearly combined model ensembles
+* Policy optimization with model-based explorations, AAAI, 2019. [[pdf]https://www.aaai.org/ojs/index.php/AAAI/article/download/4392/4270]
 
 ## Exploration
 * If MaxEnt RL is the Answer, What is the Question?
 * Provably Efficient Q-Learning with Low Switching Cost
 
 ## Meta RL
+* Learning to adapt in dynamic, real-world environments through meta-reinforcement learning
+* 
 
 ## Causal RL
 
