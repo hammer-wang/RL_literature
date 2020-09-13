@@ -7,7 +7,7 @@
 * TRPO
 * PPO
 * DDPG
-* SVG
+* DQN
 
 ## Model-based RL (inlcuding model-based optimization)
 * A Game Theoretic Framework for Model Based Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2004.07804)]
@@ -22,8 +22,8 @@
 * Deep reinforcement learning in a handful of trials using probabilistic dynamics models. arXiv preprint. arXiv:1805.12114, 2018.
 * Learning latent dynamics for planning from pixels
 * Meta-Model-Based Meta-Policy Optimization. 
-* Model Based Reinforcement Learning for Atari
-* Model-based active exploration
+* Model Based Reinforcement Learning for Atari.
+* Model-based active exploration.
 * Model-based Adversarial Meta-Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.08875)]
 * Model-based Reinforcement Learning for Semi-Markov Decision Processes with Neural ODEs, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.16210)]
 * Model-based Trust-Region Policy Optimization.
