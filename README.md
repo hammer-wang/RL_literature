@@ -19,9 +19,9 @@
 * End-to-end differentiable physics for learning and control
 * Exploring model-based planning with policy networks
 * Intelligent Trainer for Dyna-Style Model-Based Deep Reinforcement Learning, 
-* Kurtland Chua, Roberto Calandra, Rowan McAllister, and Sergey Levine. Deep reinforcement learning in a handful of trials using probabilistic dynamics models. arXiv preprint. arXiv:1805.12114, 2018.
+* Deep reinforcement learning in a handful of trials using probabilistic dynamics models. arXiv preprint. arXiv:1805.12114, 2018.
 * Learning latent dynamics for planning from pixels
-* Meta-Model-BasedMeta-Policy Optimization. 
+* Meta-Model-Based Meta-Policy Optimization. 
 * Model Based Reinforcement Learning for Atari
 * Model-based active exploration
 * Model-based Adversarial Meta-Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.08875)]
