@@ -58,8 +58,9 @@
 
 ## Applications
 * Eastman, Peter, et al. "Solving the RNA design problem with reinforcement learning." PLoS computational biology 14.6 (2018): e1006176.
-* Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning
-* Angermueller, Christof, et al. "Model-based reinforcement learning for biological sequence design." International Conference on Learning Representations. 2019. [[pdf](https://openreview.net/pdf?id=HklxbgBKvr)]
+* Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning, ICML, 2020. [[pdf](https://arxiv.org/abs/2006.11940)]
+* Angermueller, Christof, et al. "Model-based reinforcement learning for biological sequence design." International Conference on Learning Representations. 2020. [[pdf](https://openreview.net/pdf?id=HklxbgBKvr)]
+* Automated Optical Multi-layer Design via Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/abs/2006.11940)]
 
 ## Others (these are not RL papers but share some conceptual similarity)
 ### Model-based Optimization
