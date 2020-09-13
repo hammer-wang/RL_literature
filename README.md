@@ -10,29 +10,37 @@
 * SVG
 
 ## Model-based RL (inlcuding model-based optimization)
-* Clavera, Ignasi, et al. "Model-based reinforcement learning via meta-policy optimization." arXiv preprint arXiv:1809.05214 (2018).
-* Meta-Model-BasedMeta-Policy Optimization. 
-* MODEL BASED REINFORCEMENT LEARNING FOR ATARI
-* On Optimism in Model-Based Reinforcement Learning
-* Ready Policy One: World Building Through Active Learning
-* Recurrent World Models Facilitate Policy Evolution
-* MODEL-ENSEMBLE TRUST-REGION POLICY OPTIMIZATION
+* A Game Theoretic Framework for Model Based Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2004.07804)]
 * Benchmarking Model-Based Reinforcement Learning
-* Self-Supervised Exploration via Disagreement
-* Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
-* Scalable Bayesian Optimization Using Deep Neural Networks
-* Kurtland Chua, Roberto Calandra, Rowan McAllister, and Sergey Levine. Deep reinforcement learning in a handful of trials using probabilistic dynamics models. arXiv preprint. arXiv:1805.12114, 2018.
-* Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning
-* Learning latent dynamics for planning from pixels
+* Calibrated model-based deep reinforcement learning
+* Clavera, Ignasi, et al. "Model-based reinforcement learning via meta-policy optimization." arXiv preprint arXiv:1809.05214 (2018).
+* Deep Model-Based Reinforcement Learning via Estimated Uncertainty and Conservative Policy Optimization. AAAI, 2020. [[pdf](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ZhouQ.8296.pdf)]
 * Deep reinforcement learning in a handful of trials using probabilistic dynamics models
 * End-to-end differentiable physics for learning and control
-* When to trust your model: Model-based policy optimization
-* Model-based active exploration
-* Search on the replay buffer: Bridging planning and reinforcement learning
 * Exploring model-based planning with policy networks
-* Calibrated model-based deep reinforcement learning
+* Intelligent Trainer for Dyna-Style Model-Based Deep Reinforcement Learning, 
+* Kurtland Chua, Roberto Calandra, Rowan McAllister, and Sergey Levine. Deep reinforcement learning in a handful of trials using probabilistic dynamics models. arXiv preprint. arXiv:1805.12114, 2018.
+* Learning latent dynamics for planning from pixels
+* Meta-Model-BasedMeta-Policy Optimization. 
+* MODEL BASED REINFORCEMENT LEARNING FOR ATARI
+* Model-based active exploration
+* Model-based Adversarial Meta-Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.08875)]
+* Model-based Reinforcement Learning for Semi-Markov Decision Processes with Neural ODEs, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.16210)]
+* Model-based Trust-Region Policy Optimization.
+* MOReL: Model-Based Offline Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.05951)]
+* Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning
+* On Optimism in Model-Based Reinforcement Learning
+* Overcoming Model Bias for Robust Offline Deep Reinforcement Learning, arxiv, 2020. [[pdf]https://arxiv.org/pdf/2008.05533]
+* Policy optimization with model-based explorations, AAAI, 2019. [[pdf](https://www.aaai.org/ojs/index.php/AAAI/article/download/4392/4270)]
+* Ready Policy One: World Building Through Active Learning
+* Recurrent World Models Facilitate Policy Evolution
 * Sample complexity of reinforcement learning using linearly combined model ensembles
-* Policy optimization with model-based explorations, AAAI, 2019. [[pdf]https://www.aaai.org/ojs/index.php/AAAI/article/download/4392/4270]
+* Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion
+* Scalable Bayesian Optimization Using Deep Neural Networks
+* Search on the replay buffer: Bridging planning and reinforcement learning
+* Self-Supervised Exploration via Disagreement
+* SUNRISE: A Simple Unified Framework for Ensemble Learning in Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2007.04938)]
+* When to trust your model: Model-based policy optimization
 
 ## Exploration
 * If MaxEnt RL is the Answer, What is the Question?
