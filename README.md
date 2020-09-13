@@ -30,7 +30,7 @@
 * MOReL: Model-Based Offline Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.05951)]
 * Non-Stationary Markov Decision Processes, a Worst-Case Approach using Model-Based Reinforcement Learning
 * On Optimism in Model-Based Reinforcement Learning
-* Overcoming Model Bias for Robust Offline Deep Reinforcement Learning, arxiv, 2020. [[pdf]https://arxiv.org/pdf/2008.05533]
+* Overcoming Model Bias for Robust Offline Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2008.05533)]
 * Policy optimization with model-based explorations, AAAI, 2019. [[pdf](https://www.aaai.org/ojs/index.php/AAAI/article/download/4392/4270)]
 * Ready Policy One: World Building Through Active Learning
 * Recurrent World Models Facilitate Policy Evolution
