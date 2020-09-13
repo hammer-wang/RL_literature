@@ -3,7 +3,7 @@
 ## Survey
 * Yu, Yang. "Towards Sample Efficient Reinforcement Learning." IJCAI. 2018. [[pdf](https://www.ijcai.org/Proceedings/2018/0820.pdf)]
 
-## Popular Backbone Methods
+## Popular Methods
 * TRPO
 * PPO
 * DDPG
@@ -48,13 +48,12 @@
 
 ## Meta RL
 * Learning to adapt in dynamic, real-world environments through meta-reinforcement learning
-* 
 
 ## Causal RL
 
-## Offline Policy Optimization
+## Offline Policy Optimization/Evaluation
 
-## Offline Policy Evaluation
+## Multi-objective RL
 
 ## Applications
 * Eastman, Peter, et al. "Solving the RNA design problem with reinforcement learning." PLoS computational biology 14.6 (2018): e1006176.
@@ -67,3 +66,6 @@
 * Incomplete Conditional Density Estimation for Fast Materials Discovery
 
 ### 
+
+## Frameworks
+* Spinning Up [[link](https://spinningup.openai.com/en/latest/)]
