@@ -11,7 +11,6 @@
 
 ## Model-based RL (inlcuding model-based optimization)
 * A Game Theoretic Framework for Model Based Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2004.07804)]
-* A Model-based Approach for Sample-efficient Multi-task Reinforcement Learning, arxiv, 2019. [[pdf](https://arxiv.org/pdf/1907.04964.pdf)]
 * Benchmarking Model-Based Reinforcement Learning
 * Calibrated model-based deep reinforcement learning
 * Clavera, Ignasi, et al. "Model-based reinforcement learning via meta-policy optimization." arXiv preprint arXiv:1809.05214 (2018).
@@ -49,6 +48,7 @@
 * Provably Efficient Q-Learning with Low Switching Cost
 
 ## Meta RL
+* A Model-based Approach for Sample-efficient Multi-task Reinforcement Learning, arxiv, 2019. [[pdf](https://arxiv.org/pdf/1907.04964.pdf)]
 * Learning to adapt in dynamic, real-world environments through meta-reinforcement learning
 * RL2: Fast Reinforcement Learning via Slow Reinforcement Learning, ICLR, 2017. [[pdf](https://arxiv.org/abs/1611.02779)]
 
