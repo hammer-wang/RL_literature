@@ -11,6 +11,7 @@
 
 ## Model-based RL (inlcuding model-based optimization)
 * A Game Theoretic Framework for Model Based Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2004.07804)]
+* A Model-based Approach for Sample-efficient Multi-task Reinforcement Learning, arxiv, 2019. [[pdf](https://arxiv.org/pdf/1907.04964.pdf)]
 * Benchmarking Model-Based Reinforcement Learning
 * Calibrated model-based deep reinforcement learning
 * Clavera, Ignasi, et al. "Model-based reinforcement learning via meta-policy optimization." arXiv preprint arXiv:1809.05214 (2018).
