@@ -63,6 +63,7 @@
 * Adaptive Droplet Routing in Digital Microfluidic Biochips Using Deep Reinforcement Learning, ICML, 2020. [[pdf](https://arxiv.org/abs/2006.11940)]
 * Angermueller, Christof, et al. "Model-based reinforcement learning for biological sequence design." International Conference on Learning Representations. 2020. [[pdf](https://openreview.net/pdf?id=HklxbgBKvr)]
 * Automated Optical Multi-layer Design via Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/abs/2006.11940)]
+* Micro/Nano Motor Navigation and Localization via Deep Reinforcement Learning, Advanced Theory and Simulations, 2020. [[pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adts.202000034)]
 
 ## Others (these are not RL papers but share some conceptual similarity)
 ### Model-based Optimization
