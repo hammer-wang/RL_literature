@@ -54,9 +54,17 @@
 
 ## Causal RL
 
-## Offline Policy Optimization/Evaluation
+## Offline RL
+* Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.01643.pdf)]
+* MOPO: Model-based Offline Policy Optimization, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.13239)]
+* D4RL: Datasets for Deep Data-Driven Reinforcement Learning, 2020. [[pdf](https://drive.google.com/file/d/1JT13kQMvXPiTCtmEANnlrJbDGyOByGNY/view)]
+* EMaQ: Expected-Max Q-Learning Operator for Simple Yet Effective Offline and Online RL, 2020. [[pdf](https://arxiv.org/pdf/2007.11091)]
+* Accelerating Online Reinforcement Learning with Offline Datasets, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.09359)]
 
 ## Multi-objective RL
+
+## Policy Gradient
+* Phasic Policy Gradient, arxiv, 2020. [[pdf](https://arxiv.org/abs/2009.04416)]
 
 ## Applications
 * Eastman, Peter, et al. "Solving the RNA design problem with reinforcement learning." PLoS computational biology 14.6 (2018): e1006176.
@@ -78,3 +86,4 @@
 
 ## Blogs
 * [[AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
+* [[D4RL: Building Better Benchmarks for Offline Reinforcement Learning](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)]
