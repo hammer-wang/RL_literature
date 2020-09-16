@@ -75,3 +75,6 @@
 
 ## Frameworks
 * Spinning Up [[link](https://spinningup.openai.com/en/latest/)]
+
+## Blogs
+* [[AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
