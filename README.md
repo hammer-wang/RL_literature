@@ -73,6 +73,7 @@
 * Near Optimal Provable Uniform Convergence in Off-Policy Evaluation for Reinforcement Learning [[pdf](https://arxiv.org/pdf/2007.03760)]
 * Information-Theoretic Considerations in Batch Reinforcement Learning, ICML, 2019. [[pdf](https://arxiv.org/pdf/1905.00360)]
 * Q* Approximation Schemes for Batch Reinforcement Learning: A Theoretical Comparison, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2003.03924)]
+* An Optimistic Perspective on Offline Reinforcement Learning, ICML, 2020. 
 
 ## Off-policy Evaluation
 * Minimax Weight and Q-Function Learning for Off-Policy Evaluation, arxiv, 2019. [[pdf](https://arxiv.org/pdf/1910.12809.pdf)]
@@ -104,3 +105,10 @@
 ## Blogs
 * [[AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
 * [[D4RL: Building Better Benchmarks for Offline Reinforcement Learning](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)]
+
+## Relevant Courses
+1. Stanford CS234 Reinforcement Learning: http://web.stanford.edu/class/cs234/index.html
+2. Stanford CS330 Deep Multi-task and meta-learning: https://cs330.stanford.edu/
+3. UIUC CS598 Reinforcement learning theory: https://nanjiang.cs.illinois.edu/cs598/
+4. Berkeley CS285 Deep Reinforcement Learning: http://rail.eecs.berkeley.edu/deeprlcourse
+5. NYU Deep Learning: https://atcold.github.io/pytorch-Deep-Learning/
