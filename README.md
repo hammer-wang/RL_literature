@@ -3,6 +3,9 @@
 ## Survey
 * Yu, Yang. "Towards Sample Efficient Reinforcement Learning." IJCAI. 2018. [[pdf](https://www.ijcai.org/Proceedings/2018/0820.pdf)]
 
+## Books
+* Reinforcement Learning: Theory and Algorithms, 2020. [[pdf](https://rltheorybook.github.io/)]
+
 ## Popular Base Learner
 * TRPO
 * PPO
@@ -53,6 +56,7 @@
 * RL2: Fast Reinforcement Learning via Slow Reinforcement Learning, ICLR, 2017. [[pdf](https://arxiv.org/abs/1611.02779)]
 
 ## Causal RL
+* Provably Efficient Causal Reinforcement Learning with Confounded Observational Data, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.12311)]
 
 ## Offline RL
 * Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.01643.pdf)]
@@ -60,6 +64,15 @@
 * D4RL: Datasets for Deep Data-Driven Reinforcement Learning, 2020. [[pdf](https://drive.google.com/file/d/1JT13kQMvXPiTCtmEANnlrJbDGyOByGNY/view)]
 * EMaQ: Expected-Max Q-Learning Operator for Simple Yet Effective Offline and Online RL, 2020. [[pdf](https://arxiv.org/pdf/2007.11091)]
 * Accelerating Online Reinforcement Learning with Offline Datasets, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.09359)]
+* Hyperparameter selection for offline reinforcement learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2007.09055)]
+* Conservative Q-Learning for Offline Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.04779)]
+* Offline Meta Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2008.02598)]
+* Model-Based Offline Planning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2008.05556)]
+* Offline Meta-Reinforcement Learning with Advantage Weighting, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2008.02598)]
+* Overfitting and Optimization in Offline Policy Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.15368)]
+* Near Optimal Provable Uniform Convergence in Off-Policy Evaluation for Reinforcement Learning [[pdf](https://arxiv.org/pdf/2007.03760)]
+* Information-Theoretic Considerations in Batch Reinforcement Learning, ICML, 2019. [[pdf](https://arxiv.org/pdf/1905.00360)]
+* Q* Approximation Schemes for Batch Reinforcement Learning: A Theoretical Comparison, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2003.03924)]
 
 ## Multi-objective RL
 
@@ -78,6 +91,8 @@
 ### Model-based Optimization
 * Model Inversion Networks for Model-Based Optimization
 * Incomplete Conditional Density Estimation for Fast Materials Discovery
+* Autofocused oracles for model-based design, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.08052)]
+* 
 
 ### 
 
