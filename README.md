@@ -74,6 +74,9 @@
 * Information-Theoretic Considerations in Batch Reinforcement Learning, ICML, 2019. [[pdf](https://arxiv.org/pdf/1905.00360)]
 * Q* Approximation Schemes for Batch Reinforcement Learning: A Theoretical Comparison, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2003.03924)]
 
+## Off-policy Evaluation
+* Minimax Weight and Q-Function Learning for Off-Policy Evaluation, arxiv, 2019. [[pdf](https://arxiv.org/pdf/1910.12809.pdf)]
+
 ## Multi-objective RL
 
 ## Policy Gradient
@@ -92,7 +95,6 @@
 * Model Inversion Networks for Model-Based Optimization
 * Incomplete Conditional Density Estimation for Fast Materials Discovery
 * Autofocused oracles for model-based design, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.08052)]
-* 
 
 ### 
 
