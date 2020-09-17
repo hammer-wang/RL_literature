@@ -102,6 +102,9 @@
 ## Frameworks
 * Spinning Up [[link](https://spinningup.openai.com/en/latest/)]
 
+## Curated Paper List
+* Awesome Meta Learning [[link](https://github.com/sudharsan13296/Awesome-Meta-Learning)]
+
 ## Blogs
 * [[AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
 * [[D4RL: Building Better Benchmarks for Offline Reinforcement Learning](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)]
