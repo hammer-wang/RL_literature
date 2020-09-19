@@ -2,6 +2,8 @@
 
 ## Survey
 * Yu, Yang. "Towards Sample Efficient Reinforcement Learning." IJCAI. 2018. [[pdf](https://www.ijcai.org/Proceedings/2018/0820.pdf)]
+* Meta-Learning in Neural Networks: A Survey, arix, 2020. [[pdf](https://arxiv.org/pdf/2004.05439.pdf)]
+* Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/abs/2005.01643)]
 
 ## Books
 * Reinforcement Learning: Theory and Algorithms, 2020. [[pdf](https://rltheorybook.github.io/)]
