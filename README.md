@@ -92,6 +92,9 @@
 * Automated Optical Multi-layer Design via Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/abs/2006.11940)]
 * Micro/Nano Motor Navigation and Localization via Deep Reinforcement Learning, Advanced Theory and Simulations, 2020. [[pdf](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adts.202000034)]
 * Mills, Kyle, Pooya Ronagh, and Isaac Tamblyn. "Finding the ground state of spin Hamiltonians with reinforcement learning." Nature Machine Intelligence (2020): 1-9.
+* Meta-AAD: Active Anomaly Detection with
+Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2009.07415.pdf)]
+* Optimal policy learning for COVID-19 prevention using reinforcement learning, Journal of Information Science, 2020. [[pdf](https://journals.sagepub.com/doi/full/10.1177/0165551520959798)]
 
 ## Others (these are not RL papers but share some conceptual similarity)
 ### Model-based Optimization
