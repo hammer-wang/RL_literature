@@ -96,6 +96,9 @@
 Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2009.07415.pdf)]
 * Optimal policy learning for COVID-19 prevention using reinforcement learning, Journal of Information Science, 2020. [[pdf](https://journals.sagepub.com/doi/full/10.1177/0165551520959798)]
 
+### Navigation
+* SoundSpaces: Audio-Visual Navigation in 3D Environments, ECCV, 2020. [[pdf](https://arxiv.org/pdf/1912.11474.pdf)]
+
 ## Others (these are not RL papers but share some conceptual similarity)
 ### Model-based Optimization
 * Model Inversion Networks for Model-Based Optimization
