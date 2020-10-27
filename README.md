@@ -79,7 +79,7 @@
 * Near Optimal Provable Uniform Convergence in Off-Policy Evaluation for Reinforcement Learning [[pdf](https://arxiv.org/pdf/2007.03760)]
 * Information-Theoretic Considerations in Batch Reinforcement Learning, ICML, 2019. [[pdf](https://arxiv.org/pdf/1905.00360)]
 * Q* Approximation Schemes for Batch Reinforcement Learning: A Theoretical Comparison, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2003.03924)]
-* An Optimistic Perspective on Offline Reinforcement Learning, ICML, 2020. 
+- [x] An Optimistic Perspective on Offline Reinforcement Learning, ICML, 2020. 
 
 ## Off-policy Evaluation
 * Minimax Weight and Q-Function Learning for Off-Policy Evaluation, arxiv, 2019. [[pdf](https://arxiv.org/pdf/1910.12809.pdf)]
