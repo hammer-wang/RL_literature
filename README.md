@@ -65,7 +65,7 @@
 * Dabney, W., Rowland, M., Bellemare, M. G., and Munos, R. Distributional reinforcement learning with quantile regression. AAAI, 2018 [[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17184)]
 
 ## Offline RL
-* Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.01643.pdf)]
+- [x] Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.01643.pdf)]
 * MOPO: Model-based Offline Policy Optimization, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.13239)]
 * D4RL: Datasets for Deep Data-Driven Reinforcement Learning, 2020. [[pdf](https://drive.google.com/file/d/1JT13kQMvXPiTCtmEANnlrJbDGyOByGNY/view)]
 * EMaQ: Expected-Max Q-Learning Operator for Simple Yet Effective Offline and Online RL, 2020. [[pdf](https://arxiv.org/pdf/2007.11091)]
@@ -79,6 +79,7 @@
 * Near Optimal Provable Uniform Convergence in Off-Policy Evaluation for Reinforcement Learning [[pdf](https://arxiv.org/pdf/2007.03760)]
 * Information-Theoretic Considerations in Batch Reinforcement Learning, ICML, 2019. [[pdf](https://arxiv.org/pdf/1905.00360)]
 * Q* Approximation Schemes for Batch Reinforcement Learning: A Theoretical Comparison, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2003.03924)]
+- [] Gulcehre, Caglar, et al. "Rl unplugged: Benchmarks for offline reinforcement learning." arXiv preprint arXiv:2006.13888 (2020). [[pdf](https://arxiv.org/pdf/2006.13888)]
 - [x] An Optimistic Perspective on Offline Reinforcement Learning, ICML, 2020. 
 
 ## Off-policy Evaluation
