@@ -78,6 +78,7 @@
 * Offline Meta-Reinforcement Learning with Advantage Weighting, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2008.02598)]
 * Overfitting and Optimization in Offline Policy Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.15368)]
 * Q* Approximation Schemes for Batch Reinforcement Learning: A Theoretical Comparison, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2003.03924)]
+- [] Accelerating Reinforcement Learning with Learned Skill Priors, Arxiv, 2020. [[pdf](https://arxiv.org/pdf/2010.11944.pdf)]
 - [] Gulcehre, Caglar, et al. "Rl unplugged: Benchmarks for offline reinforcement learning." arXiv preprint arXiv:2006.13888 (2020). [[pdf](https://arxiv.org/pdf/2006.13888)]
 - [x] An Optimistic Perspective on Offline Reinforcement Learning, ICML, 2020. 
 - [x] Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.01643.pdf)]
