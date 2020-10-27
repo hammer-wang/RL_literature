@@ -60,6 +60,10 @@
 ## Causal RL
 * Provably Efficient Causal Reinforcement Learning with Confounded Observational Data, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.12311)]
 
+## Distributional RL
+* Bellemare, M. G., Dabney, W., and Munos, R. A distributional perspective on reinforcement learning. ICML, 2017. [[pdf](https://arxiv.org/abs/1707.06887)]
+* Dabney, W., Rowland, M., Bellemare, M. G., and Munos, R. Distributional reinforcement learning with quantile regression. AAAI, 2018 [[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17184)]
+
 ## Offline RL
 * Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.01643.pdf)]
 * MOPO: Model-based Offline Policy Optimization, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.13239)]
