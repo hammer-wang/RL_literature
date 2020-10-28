@@ -122,14 +122,17 @@ Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2009.0741
 ### 
 
 ## Frameworks
-- [ ] Spinning Up [[link](https://spinningup.openai.com/en/latest/)]
+1. Spinning Up [[link](https://spinningup.openai.com/en/latest/)]
+2. OpenAI Baselines [[link](https://github.com/openai/baselines)]
+3. Stable Baselines [[link](https://github.com/hill-a/stable-baselines)]
+4. Ray RLlib [[link](https://github.com/ray-project/ray)]
 
 ## Curated Paper List
-- [ ] Awesome Meta Learning [[link](https://github.com/sudharsan13296/Awesome-Meta-Learning)]
+1. Awesome Meta Learning [[link](https://github.com/sudharsan13296/Awesome-Meta-Learning)]
 
 ## Blogs
-- [ ] [[AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
-- [ ] [[D4RL: Building Better Benchmarks for Offline Reinforcement Learning](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)]
+- [x] [[AWAC: Accelerating Online Reinforcement Learning with Offline Datasets](https://bair.berkeley.edu/blog/2020/09/10/awac/)]
+- [x] [[D4RL: Building Better Benchmarks for Offline Reinforcement Learning](https://bair.berkeley.edu/blog/2020/06/25/D4RL/)]
 
 ## Relevant Courses
 1. Stanford CS234 Reinforcement Learning: http://web.stanford.edu/class/cs234/index.html
