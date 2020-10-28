@@ -79,13 +79,18 @@
 * Overfitting and Optimization in Offline Policy Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.15368)]
 * Q* Approximation Schemes for Batch Reinforcement Learning: A Theoretical Comparison, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2003.03924)]
 - [] Accelerating Reinforcement Learning with Learned Skill Priors, Arxiv, 2020. [[pdf](https://arxiv.org/pdf/2010.11944.pdf)]
+- [] Batch Exploration with Examples for Scalable Robotic Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2010.11917)]
+- [] Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization, arxiv, 2020. [[pdf]()]
 - [] Gulcehre, Caglar, et al. "Rl unplugged: Benchmarks for offline reinforcement learning." arXiv preprint arXiv:2006.13888 (2020). [[pdf](https://arxiv.org/pdf/2006.13888)]
-- [x] An Optimistic Perspective on Offline Reinforcement Learning, ICML, 2020. 
-- [x] Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.01643.pdf)]
+- [] Overcoming Model Bias for Robust Offline Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2008.05533)]
+- [] The Importance of Pessimism in Fixed-Dataset Policy Optimization, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2009.06799)]
+- [x] An Optimistic Perspective on Offline Reinforcement Learning, ICML, 2020. [[pdf](https://arxiv.org/pdf/2006.03647)]
 - [x] MOReL: Model-Based Offline Reinforcement Learning, NeurIPS, 2020. [[pdf](https://arxiv.org/abs/2005.05951)]
+- [x] Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.01643.pdf)]
 
 ## Off-policy Evaluation
 * Minimax Weight and Q-Function Learning for Off-Policy Evaluation, arxiv, 2019. [[pdf](https://arxiv.org/pdf/1910.12809.pdf)]
+- [] CoinDICE: Off-Policy Confidence Interval Estimation, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2010.11652)]
 
 ## Multi-objective RL
 
