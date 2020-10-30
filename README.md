@@ -65,7 +65,6 @@
 - [ ] Dabney, W., Rowland, M., Bellemare, M. G., and Munos, R. Distributional reinforcement learning with quantile regression. AAAI, 2018 [[pdf](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17184)]
 
 ## Offline RL
-
 - [ ] Accelerating Online Reinforcement Learning with Offline Datasets, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.09359)]
 - [ ] Accelerating Reinforcement Learning with Learned Skill Priors, Arxiv, 2020. [[pdf](https://arxiv.org/pdf/2010.11944.pdf)]
 - [ ] Batch Exploration with Examples for Scalable Robotic Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2010.11917)]
@@ -88,12 +87,14 @@
 - [x] An Optimistic Perspective on Offline Reinforcement Learning, ICML, 2020. [[pdf](https://arxiv.org/pdf/2006.03647)]
 - [x] MOReL: Model-Based Offline Reinforcement Learning, NeurIPS, 2020. [[pdf](https://arxiv.org/abs/2005.05951)]
 - [x] Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.01643.pdf)]
+- [ ] Defining Admissible Rewards for High-Confidence Policy Evaluation in Batch Reinforcement Learning, ACM CHIL, 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3368555.3384450)]
 
 ## Off-policy Evaluation
 - [ ] Minimax Weight and Q-Function Learning for Off-Policy Evaluation, arxiv, 2019. [[pdf](https://arxiv.org/pdf/1910.12809.pdf)]
 - [ ] CoinDICE: Off-Policy Confidence Interval Estimation, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2010.11652)]
 
 ## Multi-objective RL
+- [ ] An Optimal Policy for Patient Laboratory Tests in Intensive Care Units, arxiv, 2019. [[pdf](https://psb.stanford.edu/psb-online/proceedings/psb19/cheng_l.pdf)]
 
 ## Policy Gradient
 - [ ] Phasic Policy Gradient, arxiv, 2020. [[pdf](https://arxiv.org/abs/2009.04416)]
