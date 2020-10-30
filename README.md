@@ -110,6 +110,7 @@ Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2009.0741
 - [ ] Optimal policy learning for COVID-19 prevention using reinforcement learning, Journal of Information Science, 2020. [[pdf](https://journals.sagepub.com/doi/full/10.1177/0165551520959798)]
 - [ ] Learning to Drive in a Day, 2018. [[pdf](https://arxiv.org/pdf/1807.00412.pdf)]
 - [ ] Data Valuation with Reinforcement Learning, ICML, 2020. [[pdf](https://proceedings.icml.cc/static/paper_files/icml/2020/3003-Paper.pdf)]
+- [ ] Learning When-to-Treat Policies, arxiv, 2020. [[pdf](https://arxiv.org/pdf/1905.09751.pdf)]
 
 ### Navigation
 - [ ] SoundSpaces: Audio-Visual Navigation in 3D Environments, ECCV, 2020. [[pdf](https://arxiv.org/pdf/1912.11474.pdf)]
