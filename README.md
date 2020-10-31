@@ -122,7 +122,9 @@ Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2009.0741
 - [ ] Incomplete Conditional Density Estimation for Fast Materials Discovery
 - [ ] Autofocused oracles for model-based design, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.08052)]
 
-### 
+### Multi-objective Optimization
+- [ ] Diversity-Guided Multi-Objective Bayesian Optimization With Batch Evaluations, NeurIPS, 2020. [[pdf](https://www.yunshengtian.com/files/NeurIPS2020/DGEMO.pdf)]
+- [ ] Predictive Entropy Search for Multi-objective Bayesian Optimization, ICML, 2020. [[pdf](http://proceedings.mlr.press/v48/hernandez-lobatoa16.html)]
 
 ## Frameworks
 1. Spinning Up [[link](https://spinningup.openai.com/en/latest/)]
