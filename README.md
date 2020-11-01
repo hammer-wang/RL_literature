@@ -68,9 +68,9 @@
 - [ ] Accelerating Online Reinforcement Learning with Offline Datasets, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.09359)]
 - [ ] Accelerating Reinforcement Learning with Learned Skill Priors, Arxiv, 2020. [[pdf](https://arxiv.org/pdf/2010.11944.pdf)]
 - [ ] Batch Exploration with Examples for Scalable Robotic Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2010.11917)]
-- [ ] Conservative Q-Learning for Offline Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.04779)]
+- [x] Conservative Q-Learning for Offline Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.04779)]
 - [ ] D4RL: Datasets for Deep Data-Driven Reinforcement Learning, 2020. [[pdf](https://drive.google.com/file/d/1JT13kQMvXPiTCtmEANnlrJbDGyOByGNY/view)]
-- [ ] Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization, arxiv, 2020. [[pdf]()]
+- [ ] Deployment-Efficient Reinforcement Learning via Model-Based Offline Optimization, arxiv, 2020. [[pdf](https://arxiv.org/abs/2006.03647)]
 - [ ] EMaQ: Expected-Max Q-Learning Operator for Simple Yet Effective Offline and Online RL, 2020. [[pdf](https://arxiv.org/pdf/2007.11091)]
 - [ ] Gulcehre, Caglar, et al. "Rl unplugged: Benchmarks for offline reinforcement learning." arXiv preprint arXiv:2006.13888 (2020). [[pdf](https://arxiv.org/pdf/2006.13888)]
 - [ ] Hyperparameter selection for offline reinforcement learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2007.09055)]
@@ -88,6 +88,8 @@
 - [x] MOReL: Model-Based Offline Reinforcement Learning, NeurIPS, 2020. [[pdf](https://arxiv.org/abs/2005.05951)]
 - [x] Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2005.01643.pdf)]
 - [ ] Defining Admissible Rewards for High-Confidence Policy Evaluation in Batch Reinforcement Learning, ACM CHIL, 2020. [[pdf](https://dl.acm.org/doi/pdf/10.1145/3368555.3384450)]
+- [ ] Stabilizing off-policy q-learning via bootstrapping error reduction (BEAR). In Advances in Neural Information Processing Systems, pages 11761–11771, 2019. [[pdf]()]
+- [ ] Behavior regularized offline reinforcement learning. arXiv preprint arXiv:1911.11361, 2019. [[pdf]()]
 
 ## Off-policy Evaluation
 - [ ] Minimax Weight and Q-Function Learning for Off-Policy Evaluation, arxiv, 2019. [[pdf](https://arxiv.org/pdf/1910.12809.pdf)]
