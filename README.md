@@ -86,6 +86,7 @@
 - [ ] Rl unplugged: Benchmarks for offline reinforcement learning. NeurIPS, 2020. [[pdf](https://arxiv.org/pdf/2006.13888)]
 - [ ] Stabilizing off-policy q-learning via bootstrapping error reduction (BEAR). In Advances in Neural Information Processing Systems, pages 11761–11771, 2019. [[pdf]()]
 - [ ] The Importance of Pessimism in Fixed-Dataset Policy Optimization, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2009.06799)]
+- [ ] NeoRL: A Near Real-World Benchmark for Offline Reinforcement Learning, arxiv, 2021. [[pdf](https://arxiv.org/pdf/2102.00714.pdf)]
 - [x] An Optimistic Perspective on Offline Reinforcement Learning, ICML, 2020. [[pdf](https://arxiv.org/pdf/2006.03647)]
 - [x] Conservative Q-Learning for Offline Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2006.04779)]
 - [x] MOReL: Model-Based Offline Reinforcement Learning, NeurIPS, 2020. [[pdf](https://arxiv.org/abs/2005.05951)]
