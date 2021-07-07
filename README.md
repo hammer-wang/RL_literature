@@ -133,6 +133,55 @@ Deep Reinforcement Learning, arxiv, 2020. [[pdf](https://arxiv.org/pdf/2009.0741
 - [ ] Diversity-Guided Multi-Objective Bayesian Optimization With Batch Evaluations, NeurIPS, 2020. [[pdf](https://www.yunshengtian.com/files/NeurIPS2020/DGEMO.pdf)]
 - [ ] Predictive Entropy Search for Multi-objective Bayesian Optimization, ICML, 2020. [[pdf](http://proceedings.mlr.press/v48/hernandez-lobatoa16.html)]
 
+## Conferences
+**ICML 2021 Reading List**
+
+**Offline RL**
+- [ ] Uncertainty Weighted Actor-Critic for Offline Reinforcement Learning
+- [ ] Offline Contextual Bandits with Overparameterized Models
+- [ ] Augmented World Models Facilitate Zero-Shot Dynamics Generalization From a Single Offline Environment
+- [ ] Offline Reinforcement Learning with Fisher Divergence Critic Regularization
+- [ ] Offline Meta-Reinforcement Learning with Advantage Weighting
+- [ ] Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning
+- [ ] Offline Reinforcement Learning with Pseudometric Learning
+- [ ] Representation Matters: Offline Pretraining for Sequential Decision Making
+- [ ] Is Pessimism Provably Efficient for Offline RL?
+- [ ] OptiDICE: Offline Policy Optimization via Stationary Distribution Correction Estimation
+- [ ] Actionable Models: Unsupervised Offline Reinforcement Learning of Robotic Skills
+- [ ] EMaQ: Expected-Max Q-Learning Operator for Simple Yet Effective Offline and Online RL
+- [ ] Conservative Objective Models for Effective Offline Model-Based Optimization
+- [ ] Instabilities of Offline RL with Pre-Trained Neural Representation
+
+
+**Meta Learning**
+- [ ] A Distribution-dependent Analysis of Meta Learning
+- [ ] MetaCURE: Meta Reinforcement Learning with Empowerment-Driven Exploration
+- [ ] Improving Generalization in Meta-learning via Task Augmentation
+- [ ] PACOH: Bayes-Optimal Meta-Learning with PAC-Guarantees
+- [ ] Data Augmentation for Meta-Learning
+- [ ] How Important is the Train-Validation Split in Meta-Learning?
+- [ ] Provable Meta-Learning of Linear Representations
+- [ ] Decoupling Exploration and Exploitation for Meta-Reinforcement Learning without Sacrifices
+- [ ] A Representation Learning Perspective on the Importance of Train-Validation Splitting in Meta-Learning
+- [ ] Meta-Learning Bidirectional Update Rules
+- [ ] Function Contrastive Learning of Transferable Meta-Representations
+- [ ] Exploration in Approximate Hyper-State Space for Meta Reinforcement Learning
+- [ ] Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation
+- [ ] Meta-Thompson Sampling
+- [ ] Memory Efficient Online Meta Learning
+- [ ] Meta-learning Hyperparameter Performance Prediction with Neural Processes
+
+
+**Model-based RL**
+- [ ] Combining Pessimism with Optimism for Robust and Efficient Model-Based Deep Reinforcement Learning
+- [ ] Model-Free and Model-Based Policy Evaluation when Causality is Uncertain
+- [ ] A Sharp Analysis of Model-based Reinforcement Learning with Self-Play
+- [ ] Model-based Reinforcement Learning for Continuous Control with Posterior Sampling
+- [ ] Continuous-time Model-based Reinforcement Learning
+- [ ] Model-Based Reinforcement Learning via Latent-Space Collocation
+- [ ] PC-MLP: Model-based Reinforcement Learning with Policy Cover Guided Exploration
+- [ ] Temporal Predictive Coding For Model-Based Planning In Latent Space
+
 ## Frameworks
 1. Spinning Up [[link](https://spinningup.openai.com/en/latest/)]
 2. OpenAI Baselines [[link](https://github.com/openai/baselines)]
