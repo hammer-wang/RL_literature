@@ -1,7 +1,24 @@
-# Paper notes  
+# Paper notes
+
+## Templates
+----
+
+### Title
+1. What is the motivation?
+2. What is the problem the paper wants to solve?
+3. What is the proposed approach?
+4. What are the key conclusions and key results?
+5. What is the novelty?
+6. Any related work worth of following?
+7. Any general comments?
+----
+
+## List of Papers
 
 1. Model-Based Offline Planning with Trajectory Pruning [[link]](https://arxiv.org/pdf/2105.07351.pdf)
 2. EMaQ: Expected-Max Q-Learning Operator for Simple Yet Effective Offline and Online RL [[link]](http://proceedings.mlr.press/v139/ghasemipour21a/ghasemipour21a.pdf)
+
+----
 
 ## Model-Based Offline Planning with Trajectory Pruning [[link]](https://arxiv.org/pdf/2105.07351.pdf)
 
